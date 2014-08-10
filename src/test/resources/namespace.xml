@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Any copyright is dedicated to the Public Domain.
+   - http://creativecommons.org/publicdomain/zero/1.0/ -->
+<n1:level0 xmlns:n1="http://www.example.com/namespace1"
+           xmlns:n2="http://www.example.com/namespace2">
+  <n1:level1.1>
+    <n1:level2.1>Some text</n1:level2.1>
+  </n1:level1.1>
+  <n1:level1.2>
+    <n2:level2.1>
+      <n2:level3.1 n1:a="Attribute A">9.9</n2:level3.1>
+    </n2:level2.1>
+  </n1:level1.2>
+</n1:level0>

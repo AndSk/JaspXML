@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Any copyright is dedicated to the Public Domain.
+   - http://creativecommons.org/publicdomain/zero/1.0/ -->
+<level0 a="1" b="2.3">
+	<level1_1/>
+	<level1_2 a="a"/>
+	<level1_text>some text</level1_text>
+
+	<level1_3>
+	  <level2_1/>
+	  <level2_2>
+	    <level3_1/>
+	    <level3_2>
+	    </level3_2>
+	  </level2_2>
+	  <level2_3/>
+	</level1_3>
+
+	<level1_copy b="b"/>
+	<level1_copy b="b"/>
+</level0>
+
